@@ -8,7 +8,8 @@ accent color EDB1D36
     width: 500px;
     height: 600px;
     background-color: #F5EDDC;
-    padding: 1px;
+    /* padding: 1px; */
+    overflow: hidden;
 }
 .frame{
     border: 50px solid black;
@@ -21,4 +22,10 @@ accent color EDB1D36
     height: 150px;
     background-color: #7a8686;
     margin: 20px auto;
+}
+.two{
+    background-color: aqua;
+    width: 475px;
+    height: 200px;
+    margin: 0 auto;
 }
