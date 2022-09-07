@@ -9,3 +9,9 @@ accent color EDB1D36
     height: 600px;
     background-color: #F5EDDC;
 }
+.frame{
+    border: 50px solid black;
+    width: 500px;
+    padding: 50px;
+    margin: 20px auto;
+}
