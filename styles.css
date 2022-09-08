@@ -10,6 +10,7 @@ accent color EDB1D36
     background-color: #F5EDDC;
     /* padding: 1px; */
     overflow: hidden;
+    filter: blur(2px);
 }
 .frame{
     border: 50px solid black;
@@ -22,10 +23,19 @@ accent color EDB1D36
     height: 150px;
     background-color: #7a8686;
     margin: 20px auto;
+    filter: blur(1px);
 }
 .two{
     background-color: aqua;
     width: 475px;
     height: 200px;
     margin: 0 auto;
+    filter: blur(1px);
+}
+.three{
+    width: 199%;
+    height: 28%;
+    background-color: rebeccapurple;
+    filter: blur(2px);
+
 }
