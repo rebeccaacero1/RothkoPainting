@@ -26,6 +26,7 @@ accent color EDB1D36
     filter: blur(1px);
     box-shadow: 3px 3px #7a8686;
     border-radius: 9px;
+    transform: rotate(0.6deg);
 }
 .two{
     background-color: aqua;
@@ -35,6 +36,7 @@ accent color EDB1D36
     filter: blur(1px);
     box-shadow: 3px 3px aqua ;
     border-radius: 8px 10px;
+    transform: rotate(4.03deg);
 }
 .three{
     width: 199%;
@@ -43,6 +45,6 @@ accent color EDB1D36
     filter: blur(2px);
     box-shadow: 5px 5px rebeccapurple;
     border-radius: 30px 25px 60px 12px;
-    
+    transform: rotate(-0.2deg);
 
 }
